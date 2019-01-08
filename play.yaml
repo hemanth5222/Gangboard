@@ -3,4 +3,4 @@
   connection: local
   tasks:
   - name: check out a git repository
-    command: mkdir hello
+    command: mkdir -p hello
